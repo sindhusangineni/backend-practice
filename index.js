@@ -12,7 +12,7 @@ connectDB()
 
 
 app.get('/',(req,res)=>{
- res.send("hi guys....")
+ res.send("student CRUD API running...")
 })
 
 
